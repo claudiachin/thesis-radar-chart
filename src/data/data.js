@@ -9,7 +9,7 @@ export const data = {
         'Age',
     ],
     datasets: [{
-        label: 'TenZ',
+        label: 'TenZ (#13)',
         data: ['2218', '9000', '9000', '9000', '3000', '6000', '4950'],
         fill: true,
         backgroundColor: '#c51e3a20',
@@ -19,7 +19,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#c51e3a',
     }, {
-        label: 'sodapoppin',
+        label: 'sodapoppin (#14)',
         data: ['2820', '3000', '9000', '3000', '3000', '6000', '6525'],
         fill: true,
         backgroundColor: '#c51e3a20',
@@ -29,7 +29,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#c51e3a',
     }, {
-        label: 'TSM_ImperialHal',
+        label: 'TSM_ImperialHal (#17)',
         data: ['2151', '9000', '9000', '3000', '3000', '6000', '5400'],
         fill: true,
         backgroundColor: '#b10a2620',
@@ -39,7 +39,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#b10a26',
     }, {
-        label: 'Arteezy',
+        label: 'Arteezy (#20)',
         data: ['1310', '6000', '9000', '6000', '3000', '6000', '6075'],
         fill: true,
         backgroundColor: '#9d001220',
@@ -49,7 +49,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#9d0012',
     }, {
-        label: 'Thebausffs',
+        label: 'Thebausffs (#25)',
         data: ['1992', '6000', '9000', '6000', '3000', '6000', '5400'],
         fill: true,
         backgroundColor: '#89000020',
@@ -59,7 +59,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#890000',
     }, {
-        label: 'Kyedae',
+        label: 'Kyedae (#38)',
         data: ['2347', '6000', '9000', '3000', '3000', '6000', '4950'],
         fill: true,
         backgroundColor: '#75000020',
@@ -69,7 +69,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#750000',
     }, {
-        label: 'Nikolarn',
+        label: 'Nikolarn (#41)',
         data: ['2023', '3000', '9000', '3000', '3000', '6000', '6525'],
         fill: true,
         backgroundColor: '#61000020',
@@ -79,7 +79,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#610000',
     }, {
-        label: 'Emiru',
+        label: 'Emiru (#48)',
         data: ['2180', '3000', '6000', '3000', '3000', '3000', '5625'],
         fill: true,
         backgroundColor: '#4d000020',
@@ -89,7 +89,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#4d0000',
     }, {
-        label: 'Jinnytty',
+        label: 'Jinnytty (#11)',
         data: ['2444', '6000', '9000', '3000', '3000', '9000', '6975'],
         fill: true,
         backgroundColor: '#73000020',
@@ -99,7 +99,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#730000',
     }, {
-        label: 'forsen',
+        label: 'forsen (#24)',
         data: ['1135', '6000', '9000', '3000', '3000', '9000', '7425'],
         fill: true,
         backgroundColor: '#ff4f0020',
@@ -109,7 +109,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#ff4f00',
     }, {
-        label: 'moistcr1tikal',
+        label: 'moistcr1tikal (#37)',
         data: ['2602', '6000', '3000', '9000', '3000', '9000', '6525'],
         fill: true,
         backgroundColor: '#eb3b0020',
@@ -119,7 +119,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#eb3b00',
     }, {
-        label: 'AdmiralBahroo',
+        label: 'AdmiralBahroo (#42)',
         data: ['2035', '6000', '9000', '3000', '3000', '9000', '6975'],
         fill: true,
         backgroundColor: '#d7270020',
@@ -129,7 +129,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#d72700',
     }, {
-        label: 'xQc',
+        label: 'xQc (#1)',
         data: ['3932', '3000', '3000', '3000', '3000', '9000', '6300'],
         fill: true,
         backgroundColor: '#c3830020',
@@ -139,7 +139,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#c38300',
     }, {
-        label: 'summit1g',
+        label: 'summit1g (#5)',
         data: ['3407', '6000', '9000', '9000', '9000', '9000', '8100'],
         fill: true,
         backgroundColor: '#ffbf0020',
@@ -149,7 +149,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#ffbf00',
     }, {
-        label: 'Caedrel',
+        label: 'Caedrel (#7)',
         data: ['4470', '3000', '9000', '3000', '3000', '9000', '6075'],
         fill: true,
         backgroundColor: '#ebab0020',
@@ -159,7 +159,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#ebab00',
     }, {
-        label: 'zackrawrr',
+        label: 'zackrawrr (#8)',
         data: ['3562', '3000', '6000', '3000', '3000', '9000', '7425'],
         fill: true,
         backgroundColor: '#d7970020',
@@ -169,7 +169,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#d79700',
     }, {
-        label: 'Maximum',
+        label: 'Maximum (#9)',
         data: ['3708', '6000', '9000', '9000', '3000', '9000', '6750'],
         fill: true,
         backgroundColor: '#c3830020',
@@ -179,7 +179,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#c38300',
     }, {
-        label: 'LIRIK',
+        label: 'LIRIK (#10)',
         data: ['4141', '3000', '6000', '9000', '3000', '9000', '7425'],
         fill: true,
         backgroundColor: '#af6f0020',
@@ -189,7 +189,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#af6f00',
     }, {
-        label: 'loltyler1',
+        label: 'loltyler1 (#12)',
         data: ['2964', '3000', '3000', '3000', '3000', '9000', '6300'],
         fill: true,
         backgroundColor: '#9b5b0020',
@@ -199,7 +199,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#9b5b00',
     }, {
-        label: 'MOONMOON',
+        label: 'MOONMOON (#15)',
         data: ['2483', '3000', '9000', '3000', '3000', '9000', '7425'],
         fill: true,
         backgroundColor: '#87470020',
@@ -209,7 +209,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#874700',
     }, {
-        label: 'Quin69',
+        label: 'Quin69 (#27)',
         data: ['5047', '3000', '3000', '3000', '3000', '9000', '7425'],
         fill: true,
         backgroundColor: '#73330020',
@@ -219,7 +219,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#733300',
     }, {
-        label: 'Elajjaz',
+        label: 'Elajjaz (#28)',
         data: ['3368', '3000', '3000', '3000', '3000', '9000', '6975'],
         fill: true,
         backgroundColor: '#5f1f0020',
@@ -229,7 +229,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#5f1f00',
     }, {
-        label: 'Maximilian_DOOD',
+        label: 'Maximilian_DOOD (#31)',
         data: ['4677', '6000', '9000', '9000', '3000', '9000', '9000'],
         fill: true,
         backgroundColor: '#4b0b0020',
@@ -239,7 +239,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#4b0b00',
     }, {
-        label: 'Xaryu',
+        label: 'Xaryu (#32)',
         data: ['5296', '3000', '9000', '3000', '3000', '9000', '6750'],
         fill: true,
         backgroundColor: '#37000020',
@@ -249,7 +249,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#370000',
     }, {
-        label: 'Foolish_Gamers',
+        label: 'Foolish_Gamers (#36)',
         data: ['5377', '3000', '9000', '3000', '9000', '9000', '5625'],
         fill: true,
         backgroundColor: '#23000020',
@@ -259,7 +259,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#230000',
     }, {
-        label: 'Tectone',
+        label: 'Tectone (#43)',
         data: ['5841', '3000', '3000', '3000', '3000', '9000', '6750'],
         fill: true,
         backgroundColor: '#0f000020',
@@ -269,7 +269,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#0f0000',
     }, {
-        label: 'LVNDMARK',
+        label: 'LVNDMARK (#44)',
         data: ['3421', '6000', '9000', '9000', '3000', '9000', '6525'],
         fill: true,
         backgroundColor: '#00000020',
@@ -279,7 +279,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#000000',
     }, {
-        label: 'NICKMERCS',
+        label: 'NICKMERCS (#16)',
         data: ['4087', '3000', '6000', '3000', '9000', '6000', '7425'],
         fill: true,
         backgroundColor: '#00000020',
@@ -289,7 +289,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#000000',
     }, {
-        label: 'Mizkif',
+        label: 'Mizkif (#18)',
         data: ['4986', '3000', '6000', '3000', '9000', '6000', '6300'],
         fill: true,
         backgroundColor: '#56820320',
@@ -299,7 +299,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#568203',
     }, {
-        label: 'yourragegaming',
+        label: 'yourragegaming (#19)',
         data: ['4149', '3000', '9000', '3000', '9000', '6000', '5850'],
         fill: true,
         backgroundColor: '#426e0020',
@@ -309,7 +309,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#426e00',
     }, {
-        label: 'Clix',
+        label: 'Clix (#29)',
         data: ['5495', '3000', '6000', '3000', '9000', '9000', '4050'],
         fill: true,
         backgroundColor: '#2e5a0020',
@@ -319,7 +319,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#2e5a00',
     }, {
-        label: 'Nmplol',
+        label: 'Nmplol (#34)',
         data: ['5566', '3000', '6000', '9000', '3000', '6000', '7200'],
         fill: true,
         backgroundColor: '#1a460020',
@@ -329,7 +329,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#1a4600',
     }, {
-        label: 'scump',
+        label: 'scump (#6)',
         data: ['4669', '6000', '9000', '3000', '9000', '6000', '6300'],
         fill: true,
         backgroundColor: '#003c9720',
@@ -339,7 +339,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#003c97',
     }, {
-        label: 'buddha',
+        label: 'buddha (#26)',
         data: ['3536', '6000', '9000', '3000', '9000', '6000', '6525'],
         fill: true,
         backgroundColor: '#318ce720',
@@ -349,7 +349,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#318ce7',
     }, {
-        label: 'shroud',
+        label: 'shroud (#39)',
         data: ['3637', '6000', '9000', '9000', '9000', '6000', '6525'],
         fill: true,
         backgroundColor: '#1d78d320',
@@ -359,7 +359,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#1d78d3',
     }, {
-        label: 'QuickyBaby',
+        label: 'QuickyBaby (#40)',
         data: ['4776', '6000', '9000', '9000', '3000', '6000', '8100'],
         fill: true,
         backgroundColor: '#0964bf20',
@@ -369,7 +369,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#0964bf',
     }, {
-        label: 'Fanum',
+        label: 'Fanum (#46)',
         data: ['3555', '6000', '3000', '9000', '3000', '6000', '5850'],
         fill: true,
         backgroundColor: '#0050ab20',
@@ -379,7 +379,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#0050ab',
     }, {
-        label: 'tarik',
+        label: 'tarik (#2)',
         data: ['3719', '6000', '9000', '6000', '3000', '9000', '6075'],
         fill: true,
         backgroundColor: '#3a009220',
@@ -389,7 +389,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#3a0092',
     }, {
-        label: 'Gorgc',
+        label: 'Gorgc (#21)',
         data: ['3094', '6000', '9000', '6000', '3000', '9000', '6750'],
         fill: true,
         backgroundColor: '#8a2be220',
@@ -399,7 +399,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#8a2be2',
     }, {
-        label: 'hJune',
+        label: 'hJune (#23)',
         data: ['3220', '6000', '9000', '6000', '3000', '3000', '5850'],
         fill: true,
         backgroundColor: '#7617ce20',
@@ -409,7 +409,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#7617ce',
     }, {
-        label: 'HasanAbi',
+        label: 'HasanAbi (#4)',
         data: ['6085', '9000', '9000', '9000', '3000', '9000', '7200'],
         fill: true,
         backgroundColor: '#d7698720',
@@ -419,7 +419,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#d76987',
     }, {
-        label: 'CohhCarnage',
+        label: 'CohhCarnage (#30)',
         data: ['3845', '9000', '9000', '9000', '3000', '9000', '8775'],
         fill: true,
         backgroundColor: '#ff91af20',
@@ -429,7 +429,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#ff91af',
     }, {
-        label: 'Fextralife',
+        label: 'Fextralife (#33)',
         data: ['4069', '9000', '9000', '9000', '3000', '9000', '6300'],
         fill: true,
         backgroundColor: '#eb7d9b20',
@@ -439,7 +439,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#eb7d9b',
     }, {
-        label: 'KaiCenat',
+        label: 'KaiCenat (#3)',
         data: ['7695', '3000', '3000', '3000', '3000', '6000', '4950'],
         fill: true,
         backgroundColor: '#58585820',
@@ -449,7 +449,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#585858',
     }, {
-        label: 'Quackity',
+        label: 'Quackity (#22)',
         data: ['8632', '3000', '9000', '3000', '9000', '3000', '5175'],
         fill: true,
         backgroundColor: '#80808020',
@@ -459,7 +459,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#808080',
     }, {
-        label: 'CoconutB',
+        label: 'CoconutB (#35)',
         data: ['6421', '3000', '3000', '3000', '3000', '6000', '5625'],
         fill: true,
         backgroundColor: '#6c6c6c20',
@@ -469,7 +469,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#6c6c6c',
     }, {
-        label: 'PENTA',
+        label: 'PENTA (#45)',
         data: ['6704', '3000', '3000', '3000', '9000', '6000', '5850'],
         fill: true,
         backgroundColor: '#58585820',
@@ -479,7 +479,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#585858',
     }, {
-        label: 'CDawgVA',
+        label: 'CDawgVA (#49)',
         data: ['6203', '3000', '9000', '3000', '3000', '3000', '5625'],
         fill: true,
         backgroundColor: '#44444420',
@@ -489,7 +489,7 @@ export const data = {
         pointHoverBackgroundColor: '#FFF',
         pointHoverBorderColor: '#444444',
     }, {
-        label: 'PaymoneyWubby',
+        label: 'PaymoneyWubby (#50)',
         data: ['9000', '3000', '3000', '3000', '3000', '6000', '6300'],
         fill: true,
         backgroundColor: '#30303020',
