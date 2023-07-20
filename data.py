@@ -48,7 +48,7 @@ with open("thesis-radar-chart/static/radarcharts.csv", newline='') as radarchart
         res.write("{\n")
 
         # label
-        res.write("label: '"+str(row[2])+"',\n")
+        res.write("label: '"+str(row[2])+" (#"+str(row[1])+")"+"',\n")
 
         # data
         res.write("data: "+str(row[3:])+",\n")
