@@ -52,33 +52,29 @@
             if (toShow == "A") {
                 current = "A";
                 startShow = 0;
-                endShow = 7;
+                endShow = 2;
             } else if (toShow == "B") {
                 current = "B";
-                startShow = 8;
-                endShow = 11;
+                startShow = 3;
+                endShow = 6;
             } else if (toShow == "C") {
                 current = "C";
-                startShow = 12;
-                endShow = 26;
+                startShow = 7;
+                endShow = 12;
             } else if (toShow == "D") {
                 current = "D";
-                startShow = 27;
-                endShow = 31;
+                startShow = 13;
+                endShow = 21;
             } else if (toShow == "E") {
                 current = "E";
-                startShow = 32;
-                endShow = 36;
+                startShow = 22;
+                endShow = 30;
             } else if (toShow == "F") {
                 current = "F";
-                startShow = 37;
-                endShow = 39;
+                startShow = 31;
+                endShow = 42;
             } else if (toShow == "G") {
                 current = "G";
-                startShow = 40;
-                endShow = 42;
-            } else if (toShow == "H") {
-                current = "H";
                 startShow = 43;
                 endShow = 48;
             } else {
@@ -136,7 +132,6 @@
         <button class="{current === 'E' ? 'selected' : ''}" on:click={() => changeChart("E")}>Group E</button>
         <button class="{current === 'F' ? 'selected' : ''}" on:click={() => changeChart("F")}>Group F</button>
         <button class="{current === 'G' ? 'selected' : ''}" on:click={() => changeChart("G")}>Group G</button>
-        <button class="{current === 'H' ? 'selected' : ''}" on:click={() => changeChart("H")}>Group H</button>
     </div>
 </div>
 
@@ -221,10 +216,6 @@
     }
     .buttons button:nth-child(8) {
         background: rgb(255, 145, 175);
-    }
-    .buttons button:nth-child(9) {
-        color: white;
-        background: rgb(128, 128, 128);
     }
 
     .chart {
