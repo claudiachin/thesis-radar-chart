@@ -60,22 +60,22 @@
             } else if (toShow == "C") {
                 current = "C";
                 startShow = 7;
-                endShow = 12;
+                endShow = 11;
             } else if (toShow == "D") {
                 current = "D";
-                startShow = 13;
-                endShow = 21;
+                startShow = 12;
+                endShow = 20;
             } else if (toShow == "E") {
                 current = "E";
-                startShow = 22;
-                endShow = 30;
+                startShow = 21;
+                endShow = 29;
             } else if (toShow == "F") {
                 current = "F";
-                startShow = 31;
-                endShow = 42;
+                startShow = 30;
+                endShow = 41;
             } else if (toShow == "G") {
                 current = "G";
-                startShow = 43;
+                startShow = 42;
                 endShow = 48;
             } else {
                 // All
